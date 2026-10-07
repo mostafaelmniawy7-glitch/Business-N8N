@@ -1,4 +1,4 @@
- AI Business Chatbot
+## AI Business Chatbot
 
 Production-ready AI chatbot for businesses (restaurants, pharmacies, clinics, stores). Built with n8n + Supabase + OpenAI.
 
