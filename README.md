@@ -23,7 +23,7 @@ Production-ready AI chatbot for businesses (restaurants, pharmacies, clinics, st
 ![Workflow](screenshots/workflow.png)
 
 ### Supabase Database
-![Supabase](screenshots/supabase.png)
+![Supabase]([screenshots/supabase.png](https://github.com/mostafaelmniawy7-glitch/Business-N8N/blob/main/Supabase%20Preview.png))
 
 ## How It Works
 
